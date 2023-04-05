@@ -1,4 +1,1 @@
-# Webpack5
-https:/757-art.github.io/ahj_events/
-
-![CI](https://github.com/Anna7682/ahj_event/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/ekf6twoctxclqwr1/branch/main?svg=true)](https://ci.appveyor.com/project/Anna7682/ahj-dom-game/branch/main)
